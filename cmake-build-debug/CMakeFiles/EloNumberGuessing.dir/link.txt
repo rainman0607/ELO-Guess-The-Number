@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/EloNumberGuessing.dir/main.cpp.o  -o EloNumberGuessing 
